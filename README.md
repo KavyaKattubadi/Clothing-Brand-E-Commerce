@@ -12,9 +12,4 @@ What I included:
 - A fully working backend implementation (routes, controllers, models, seeder)
 - A minimal frontend that demonstrates product listing, product detail, guest cart, auth forms.
 
-Important:
-- Fill `.env` in `backend` with your MongoDB connection, JWT secret and email credentials.
-- Run `npm install` in `backend` and then `npm run seed` then `npm run dev`.
-- Frontend is minimal; you can copy `frontend/src` into a Create React App or Vite project.
 
-Files are zipped in `/mnt/data/clothing-ecommerce.zip`
